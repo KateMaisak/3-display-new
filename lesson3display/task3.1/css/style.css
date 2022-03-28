@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: #09a709;
+}
+a{
+color: #fff;
+text-decoration: none;
+font-weight: bold;
+display: inline-block;
+padding: 25px;
+}
+a:hover{
+background-color: #147414;
+}

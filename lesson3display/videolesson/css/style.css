@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+main{
+    background-color: greenyellow;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.more{
+    background-color: pink;
+    display: inline-block;
+    padding: 10px 30px;
+    color: greenyellow;
+}
+
+.red, .green{
+    display: inline-block;
+    max-width: 48%;
+    padding: 20px;
+    vertical-align: top;
+}
